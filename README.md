@@ -5,7 +5,7 @@ READMEs and code snippets for learning SASS
 
 ### What is a SASS source map?
 A source map gives a way for browsers to reverse the compiled SASS file:
-CSS + source map = SASS readable by browser :)
+- CSS + source map = SASS readable by browser :)
 
 ## Setting up SASS
 
